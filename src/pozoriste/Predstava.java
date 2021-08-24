@@ -16,6 +16,9 @@ public class Predstava {
     }
 
     // TODO: dodaj(Glumac glumac) - boolean
+    // da li vec postoji isti glumac  zaposleni.contains(glumac)
+    // this.zaposleni.add(glumac);
+    //
     // TODO: dodaj(Kostimograf k) - boolean
 
 
